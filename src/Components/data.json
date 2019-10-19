@@ -1,0 +1,52 @@
+[
+
+    {
+        "id": 1,
+        "title": "Đây là tiêu đề 1",
+        "quote": "Đây là trích dẫn 1",
+        "content": "Đây là nội dung 1",
+        "img": "https://via.placeholder.com/800x400"
+
+    },
+    {
+        "id": 2,
+        "title": "Đây là tiêu đề 2",
+        "quote": "Đây là trích dẫn 2",
+        "content": "Đây là nội dung 2",
+        "img": "https://via.placeholder.com/800x400"
+
+    },
+    {
+        "id": 3,
+        "title": "Đây là tiêu đề 3",
+        "quote": "Đây là trích dẫn 3",
+        "content": "Đây là nội dung 3",
+        "img": "https://via.placeholder.com/800x400"
+
+    },
+    {
+        "id": 4,
+        "title": "Đây là tiêu đề 4",
+        "quote": "Đây là trích dẫn 4",
+        "content": "Đây là nội dung 4",
+        "img": "https://via.placeholder.com/800x400"
+
+    },
+    {
+        "id": 5,
+        "title": "Đây là tiêu đề 5",
+        "quote": "Đây là trích dẫn 5",
+        "content": "Đây là nội dung 5",
+        "img": "https://via.placeholder.com/800x400"
+
+    },
+    {
+        "id": 6,
+        "title": "Đây là tiêu đề 6",
+        "quote": "Đây là trích dẫn 6",
+        "content": "Đây là nội dung 6",
+        "img": "https://via.placeholder.com/800x400"
+
+    }
+
+]
